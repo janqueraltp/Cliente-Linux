@@ -2,7 +2,7 @@
 ## Administración de Linux en modo comando
 #### SIOMONO - SMIX - [@janqueraltp](https://github.com/janqueraltp).
 
-##### **Índice**
+**Índice**
 1. [Conceptos generales](#id1)
 2. [Sintaxis de un comando](#id2)
 
