@@ -18,3 +18,4 @@ Actual (ej. PRACS / PT1 ).
 donde nos encontramos en estos momentos utilizaremos una ruta relativa.
 Y siempre nos moveremos por una rama diferente a la actual usaremos ruta
 absoluta.  
+## Sintaxis de un comando
