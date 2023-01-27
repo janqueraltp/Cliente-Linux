@@ -42,7 +42,7 @@ absoluta.
 #### Mkdir nom directori :arrow_right: crear un direcrtorio   
 ![image](https://user-images.githubusercontent.com/116662838/215170004-9d04c9ff-b779-4f47-a3dc-4f1e4e6e6768.png)  
 
-Ls :arrow_right: Mostrar directorios :arrow_right: Para comprobar que se ha creado bien  
+#### Ls :arrow_right: Mostrar directorios :arrow_right: Para comprobar que se ha creado bien  
 ![image](https://user-images.githubusercontent.com/116662838/215168936-bc808dad-415b-4d56-bf1d-3d0ce5b66c71.png)  
 
 ### ELIMINAR DIRECTORIO
