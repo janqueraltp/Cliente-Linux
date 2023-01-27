@@ -28,6 +28,8 @@ absoluta.
 
 ## Sintaxis de un comando
 `$comando [-opciones] [argumentos]`  
+
+
 •	Los corchetes ( [ ] ) marcan que lo que hay entre ellos es opcional (es decir se puede poner o no).
 •	Las opciones son modificadores del comando que permiten obtener más funcionalidades.
 •	Los argumentos indican sobre quién aplicamos el comando.
