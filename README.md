@@ -40,7 +40,7 @@ absoluta.
 
 ### CREAR DIRECTORIOS
 Mkdir nom directori :arrow_right: crear un direcrtorio  
-Ls  Mostrar directorios :arrow_right: Para comprobar que se ha creado bien  
+Ls :arrow_right: Mostrar directorios :arrow_right: Para comprobar que se ha creado bien  
 
 ### ELIMINAR DIRECTORIO
 EM -RF NOM_DIRECTORI  Para borrar el directorio que le pasamos como argumento al comando mr
