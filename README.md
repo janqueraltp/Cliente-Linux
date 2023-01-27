@@ -7,6 +7,7 @@
 2. [Sintaxis de un comando](#id2)
 
 <div id='id1' />
+
 ## Conceptos generales
 •	**Gestor de arranque** es un software que nos permite arrancar los diferentes sistemas operativos que tenemos instalados en la máquina (ej. GRUB, LILO).  
 •	**Gestor de inicio de sesión en modo gráfico** es una aplicación que nos permite iniciar sesión en el entorno gráfico con un usuario determinado (ej. LIGHTDM, GDM, KDM).  
@@ -25,4 +26,5 @@ Y siempre nos moveremos por una rama diferente a la actual usaremos ruta
 absoluta. 
 
 <div id='id2' />
+
 ## Sintaxis de un comando
