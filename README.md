@@ -28,3 +28,52 @@ absoluta.
 <div id='id2' />
 
 ## Sintaxis de un comando
+$comando [-opciones] [argumentos]
+•	Los corchetes ( [ ] ) marcan que lo que hay entre ellos es opcional (es decir se puede poner o no).
+•	Las opciones son modificadores del comando que permiten obtener más funcionalidades.
+•	Los argumentos indican sobre quién aplicamos el comando.
+
+
+
+
+
+CREAR DIRECTORIOS
+Mkdir nom directori  crear un direcrtorio
+Ls  Mostrar directorios  Para comprobar que se ha creado bien
+
+ELIMINAR DIRECTORIO
+EM -RF NOM_DIRECTORI  Para borrar el directorio que le pasamos como argumento al comando mr
+HERRAMIENTA APT
+APT es una herramienta que nos permite instalar aplicaciones, paquetes y librerias de software.
+Es necesario ser superusuario para poder utilizar esta herramienta.
+Apt-get update  Para actualizer la lista de paquetes a los que apt puede acceder atraves de sus fuentes
+Sources.list  Archivo de configuración del comando apt que contiene las fuentes de repositorio de software, direcciones de servidores de internet de donde descargar aplicaciones (fuentes).
+Apt-get install nom_aplicació  Para instalar la aplicación (o paquete o librería de software)
+Que le pasamos como arguemento a la herramienta APT.
+Sudo apt-get install xxx  Instalar
+Sudo apt-get remove xxx  Desinstalar
+HERRAMIENTAS SUDO
+Es una herramienta que nos permite ejecutar comandos de modo superusuario (root)
+Sudo comando  Para ejecutar en modo root el comando que le pasamos como argumento la herramienta sudo
+Sudo nos permite iniciar sesión en modo superusuario  sudo su.
+El password que nos solicita el sistema es el del usuario con el que hemos ejecutado al herramienta sudo
+
+CREAR / MODIFICAR ARCHIVOS
+Gedit nom_directorio  Para crear o modificar el archivo que le pasamos como argumento al comando gedit. Si el archivo no existe se crea y si existe se entra en modo edición.
+
+VIM  Editor
+Tecla i  insertar
+Esc  para salir del modo insertar i de otros modos. Esto nos permitirá introducir nuevas ordenes.
+W  Para guardar canvios
+Q  Para salir sin guardar
+WQ  Guardar i salir
+X  Guardar i salir también
+Q!  Forzar la salida sin guardar
+
+
+MOSTRAR EL CONTENIDO DE UN ARCHICVO
+Cat nomarxiu  Muestra por pantalla el contenido del archivo que le pasamos por pantalla del archivo qure le pasamos como argumento al comando cat. Si el archivo es muy grande solamente se mostrara la parte final
+
+Mor   Muestra por pantalla el contenido del archivo que le pasamos por pantalla del archivo qure le pasamos como argumento al comando cat. Si el archivo es muy grande podremos mostrar el contenido linia a linia (con la tecla enter o pagina a pagina con la tecla espacio).
+Presionando la tecla q se cancela el avanze por el archivo
+Tabulador  Sirve para aurocompletar rutas, comandos y archivos
