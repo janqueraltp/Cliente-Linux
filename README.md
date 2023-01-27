@@ -5,13 +5,8 @@
 **Índice**
 1. [Conceptos generales](#id1)
 2. [Sintaxis de un comando](#id2)
-<div id='id1' />
-## Primer apartado
-Texto del primer apartado
-<div id='id2' />
-## Segundo apartado
-Texto del segundo apartado
 
+<div id='id1' />
 ## Conceptos generales
 •	**Gestor de arranque** es un software que nos permite arrancar los diferentes sistemas operativos que tenemos instalados en la máquina (ej. GRUB, LILO).  
 •	**Gestor de inicio de sesión en modo gráfico** es una aplicación que nos permite iniciar sesión en el entorno gráfico con un usuario determinado (ej. LIGHTDM, GDM, KDM).  
@@ -27,5 +22,7 @@ Actual (ej. PRACS / PT1 ).
 •	**Anotación** siempre que nos movamos por la misma rama (árbol del directorio)
 donde nos encontramos en estos momentos utilizaremos una ruta relativa.
 Y siempre nos moveremos por una rama diferente a la actual usaremos ruta
-absoluta.  
+absoluta. 
+
+<div id='id2' />
 ## Sintaxis de un comando
