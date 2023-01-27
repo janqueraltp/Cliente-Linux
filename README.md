@@ -1,13 +1,12 @@
 # Cliente-Linux
-## Administración de Linux en modo comando `#fhffr4`
+## Administración de Linux en modo comando
+#### SIOMONO - SMIX - `Jan Queralt`
 
 **Índice**
 1. [Conceptos generales](#id1)
 2. [Sintaxis de un comando](#id2)
 
 <div id='id1' />
-
-`#fhffr4`
 
 ## Conceptos generales
 •	**Gestor de arranque** es un software que nos permite arrancar los diferentes sistemas operativos que tenemos instalados en la máquina (ej. GRUB, LILO).  
