@@ -39,8 +39,8 @@ absoluta.
 
 
 ### CREAR DIRECTORIOS
-Mkdir nom directori :arrow_right: crear un direcrtorio  
-![image](https://user-images.githubusercontent.com/116662838/215169363-9adebed5-728f-4268-b780-6e41845e3329.png)  
+Mkdir nom directori :arrow_right: crear un direcrtorio   
+<img src="(https://user-images.githubusercontent.com/116662838/215169363-9adebed5-728f-4268-b780-6e41845e3329.png)" alt="drawing" width="200"/>
 
 Ls :arrow_right: Mostrar directorios :arrow_right: Para comprobar que se ha creado bien  
 ![image](https://user-images.githubusercontent.com/116662838/215168936-bc808dad-415b-4d56-bf1d-3d0ce5b66c71.png)  
