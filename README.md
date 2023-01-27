@@ -1,6 +1,6 @@
 # Cliente-Linux
 ## Administración de Linux en modo comando
-#### SIOMONO - SMIX - `Jan Queralt`
+#### SIOMONO - SMIX - @janqueraltp
 
 **Índice**
 1. [Conceptos generales](#id1)
