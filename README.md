@@ -81,3 +81,14 @@ Cat nomarxiu  Muestra por pantalla el contenido del archivo que le pasamos po
 Mor   Muestra por pantalla el contenido del archivo que le pasamos por pantalla del archivo qure le pasamos como argumento al comando cat. Si el archivo es muy grande podremos mostrar el contenido linia a linia (con la tecla enter o pagina a pagina con la tecla espacio).
 Presionando la tecla q se cancela el avanze por el archivo
 Tabulador  Sirve para aurocompletar rutas, comandos y archivos
+
+
+English Glossary
+English	Spanish
+Actul directory	Directorio actual
+Anterior directory	Directorio anterior
+Cd  Change directory	
+Mkdir  Make directory	
+Rm  remove	
+edit	editar
+Key sensitive	Distingue minúsculas y mayúsculas 
