@@ -1,6 +1,6 @@
 # Cliente-Linux
 ## Administración de Linux en modo comando
-#### SIOMONO - SMIX - [@janqueraltp](https://github.com/janqueraltp).
+#### SIOMONO - SMIX - [@janqueraltp](https://github.com/janqueraltp). Build Status
 
 **Índice**
 1. [Conceptos generales](#id1)
