@@ -1,5 +1,5 @@
 # Cliente-Linux
-## Administración de Linux en modo comando
+## Administración de Linux en modo comando `#fhffr4`
 
 **Índice**
 1. [Conceptos generales](#id1)
