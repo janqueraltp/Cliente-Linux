@@ -2,6 +2,16 @@
 ## Administración de Linux en modo comando
 ### SIOMONO - SMIX 1
 
+**Índice**
+1. [Primer apartado](#id1)
+2. [Segundo apartado](#id2)
+<div id='id1' />
+## Primer apartado
+Texto del primer apartado
+<div id='id2' />
+## Segundo apartado
+Texto del segundo apartado
+
 ## Conceptos generales
 •	**Gestor de arranque** es un software que nos permite arrancar los diferentes sistemas operativos que tenemos instalados en la máquina (ej. GRUB, LILO).  
 •	**Gestor de inicio de sesión en modo gráfico** es una aplicación que nos permite iniciar sesión en el entorno gráfico con un usuario determinado (ej. LIGHTDM, GDM, KDM).  
