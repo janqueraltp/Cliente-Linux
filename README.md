@@ -42,9 +42,9 @@ absoluta.
 Mkdir nom directori  crear un direcrtorio
 Ls  Mostrar directorios  Para comprobar que se ha creado bien
 
-ELIMINAR DIRECTORIO
+### ELIMINAR DIRECTORIO
 EM -RF NOM_DIRECTORI  Para borrar el directorio que le pasamos como argumento al comando mr
-HERRAMIENTA APT
+#### HERRAMIENTA APT
 APT es una herramienta que nos permite instalar aplicaciones, paquetes y librerias de software.
 Es necesario ser superusuario para poder utilizar esta herramienta.
 Apt-get update  Para actualizer la lista de paquetes a los que apt puede acceder atraves de sus fuentes
