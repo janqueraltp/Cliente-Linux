@@ -44,7 +44,7 @@ Ls  Mostrar directorios  Para comprobar que se ha creado bien
 
 ### ELIMINAR DIRECTORIO
 EM -RF NOM_DIRECTORI  Para borrar el directorio que le pasamos como argumento al comando mr
-#### HERRAMIENTA APT
+### HERRAMIENTA APT
 APT es una herramienta que nos permite instalar aplicaciones, paquetes y librerias de software.
 Es necesario ser superusuario para poder utilizar esta herramienta.
 Apt-get update  Para actualizer la lista de paquetes a los que apt puede acceder atraves de sus fuentes
@@ -53,23 +53,23 @@ Apt-get install nom_aplicació  Para instalar la aplicación (o paquete o lib
 Que le pasamos como arguemento a la herramienta APT.
 Sudo apt-get install xxx  Instalar
 Sudo apt-get remove xxx  Desinstalar
-HERRAMIENTAS SUDO
+### HERRAMIENTAS SUDO
 Es una herramienta que nos permite ejecutar comandos de modo superusuario (root)
 Sudo comando  Para ejecutar en modo root el comando que le pasamos como argumento la herramienta sudo
 Sudo nos permite iniciar sesión en modo superusuario  sudo su.
 El password que nos solicita el sistema es el del usuario con el que hemos ejecutado al herramienta sudo
 
-CREAR / MODIFICAR ARCHIVOS
+### CREAR / MODIFICAR ARCHIVOS
 Gedit nom_directorio  Para crear o modificar el archivo que le pasamos como argumento al comando gedit. Si el archivo no existe se crea y si existe se entra en modo edición.
 
-VIM  Editor
+**VIM  Editor
 Tecla i  insertar
 Esc  para salir del modo insertar i de otros modos. Esto nos permitirá introducir nuevas ordenes.
 W  Para guardar canvios
 Q  Para salir sin guardar
 WQ  Guardar i salir
 X  Guardar i salir también
-Q!  Forzar la salida sin guardar
+Q!  Forzar la salida sin guardar**
 
 
 MOSTRAR EL CONTENIDO DE UN ARCHICVO
