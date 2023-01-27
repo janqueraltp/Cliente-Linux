@@ -3,8 +3,8 @@
 ### SIOMONO - SMIX 1
 
 **Índice**
-1. [Primer apartado](#id1)
-2. [Segundo apartado](#id2)
+1. [Conceptos generales](#id1)
+2. [Sintaxis de un comando](#id2)
 <div id='id1' />
 ## Primer apartado
 Texto del primer apartado
