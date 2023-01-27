@@ -1,6 +1,3 @@
 # Cliente-Linux
+## Administración de Linux en modo comando
 ### SIOMONO - SMIX 1
-
-`<picture><source media="(prefers-color-scheme: dark)" srcset=""></picture>`
-H~2~O
-
