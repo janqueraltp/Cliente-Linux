@@ -46,7 +46,7 @@ absoluta.
 ![image](https://user-images.githubusercontent.com/116662838/215168936-bc808dad-415b-4d56-bf1d-3d0ce5b66c71.png)  
 
 ### ELIMINAR DIRECTORIO
-EM -RF NOM_DIRECTORI  Para borrar el directorio que le pasamos como argumento al comando mr
+EM -RF NOM_DIRECTORI :arrow_right: Para borrar el directorio que le pasamos como argumento al comando mr  
 ### HERRAMIENTA APT
 APT es una herramienta que nos permite instalar aplicaciones, paquetes y librerias de software.
 Es necesario ser superusuario para poder utilizar esta herramienta.
