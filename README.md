@@ -46,12 +46,12 @@ absoluta.
 ![image](https://user-images.githubusercontent.com/116662838/215168936-bc808dad-415b-4d56-bf1d-3d0ce5b66c71.png)  
 
 ### ELIMINAR DIRECTORIO
-RM -RF NOM_DIRECTORI :arrow_right: Para borrar el directorio que le pasamos como argumento al comando mr  
+RM -RF NOM_DIRECTORI :arrow_right: Para borrar el directorio.
 ### HERRAMIENTA APT
-APT es una herramienta que nos permite instalar aplicaciones, paquetes y librerias de software.
-Es necesario ser superusuario para poder utilizar esta herramienta.
-Apt-get update  Para actualizer la lista de paquetes a los que apt puede acceder atraves de sus fuentes
-Sources.list  Archivo de configuración del comando apt que contiene las fuentes de repositorio de software, direcciones de servidores de internet de donde descargar aplicaciones (fuentes).
+APT es una herramienta que nos permite instalar aplicaciones, paquetes y librerias de software.  
+Es necesario ser superusuario para poder utilizar esta herramienta.  
+Apt-get update --> Para actualizer la lista de paquetes a los que apt puede acceder atraves de sus fuentes
+Sources.list --> Archivo de configuración del comando apt que contiene las fuentes de repositorio de software, direcciones de servidores de internet de donde descargar aplicaciones (fuentes).
 Apt-get install nom_aplicació  Para instalar la aplicación (o paquete o librería de software)
 Que le pasamos como arguemento a la herramienta APT.
 Sudo apt-get install xxx  Instalar
