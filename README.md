@@ -127,5 +127,10 @@ Para comprimir un archivo o un conjunto de archivos. El archivo orgiginal (o ori
 
 ![image](https://user-images.githubusercontent.com/116662838/216680592-7e296ceb-dd12-4acc-99de-3d147a3cfa5a.png)  
 
-```gzip -r nom-directori```
+```gzip -r nom-directori ... nom-directoriN```
 Para comprimir un directorio (o conjunto de directorios). El directorio original (o directorios originales) no se pierde y lo que ocurre es que se comproime cada archivo del directorio (y de los subdirectorios que pueda contener) por separado, de tal forma que seguimos teniendo la misma estructura  dentro del arbol de directorios del sistema operativo (por tanto los objetos que contiene el directorio no se empaquetan)
+
+```$gzip -r nom-directori ... nom-directoriN```
+```$gzip -r pracs```
+```$ls```
+```$ls pracs```
