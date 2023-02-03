@@ -1,4 +1,4 @@
-# Cliente-Linux ![logoubuntu](img/logo.png)
+# Cliente-Linux ![logoubuntu](img/log.png)
 ## Administración de Linux en modo comando
 #### Redes locales - SMIX - [@janqueraltp](https://github.com/janqueraltp).
 
