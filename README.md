@@ -84,5 +84,5 @@ Presionando la tecla q se cancela el avanze por el archivo
 Tabulador  Sirve para aurocompletar rutas, comandos y archivos
 
 # EMPAQUETAR Y COMPRIMIR
-***Empaquetar*** --> es juntar varios objetos del arbol de directoreios del Sistema opaerativo (SO) en un solo objeto.  
+***Empaquetar*** --> Es juntar varios objetos del arbol de directoreios del Sistema opaerativo (SO) en un solo objeto.  
 ***Comprimir*** -->  Consiste en intentar reducir el tamaño de uno o varios objetos del arbol de directorios del Sistema Operativo (SO). La idea 
