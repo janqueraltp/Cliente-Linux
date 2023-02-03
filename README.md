@@ -83,4 +83,5 @@ more --> Muestra por pantalla el contenido del archivo que le pasamos por pantal
 Presionando la tecla q se cancela el avanze por el archivo
 Tabulador  Sirve para aurocompletar rutas, comandos y archivos
 
-![logoubuntu](img/logo.png)
+# EMPAQUETAR Y COMPRIMIR
+Empaquetar es juntar varios objetos del arbol de directoreios del Sistema opaerativo (SO)
