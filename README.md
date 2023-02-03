@@ -79,6 +79,6 @@ Q!  Forzar la salida sin guardar**
 MOSTRAR EL CONTENIDO DE UN ARCHICVO
 Cat nomarxiu  Muestra por pantalla el contenido del archivo que le pasamos por pantalla del archivo qure le pasamos como argumento al comando cat. Si el archivo es muy grande solamente se mostrara la parte final
 
-more   Muestra por pantalla el contenido del archivo que le pasamos por pantalla del archivo qure le pasamos como argumento al comando cat. Si el archivo es muy grande podremos mostrar el contenido linia a linia (con la tecla enter o pagina a pagina con la tecla espacio).
+more --> Muestra por pantalla el contenido del archivo que le pasamos por pantalla del archivo qure le pasamos como argumento al comando cat. Si el archivo es muy grande podremos mostrar el contenido linia a linia (con la tecla enter o pagina a pagina con la tecla espacio).
 Presionando la tecla q se cancela el avanze por el archivo
 Tabulador  Sirve para aurocompletar rutas, comandos y archivos
