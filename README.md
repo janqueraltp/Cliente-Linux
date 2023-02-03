@@ -145,7 +145,7 @@ Para descomprimir un directorio o conjunto de directorios. Los archivos comprimi
 
 
 ### Empaquetar archivos y directorios
-```tar -c[^nota5]v[^nota6]f[^nota7]```
+tar -c[^nota5]v[^nota6]f[^nota7]
 [^nota5]: empaquetar
 [^nota6]: muestra informacion del proceso y empaquetado
 [^nota7]: forzar
