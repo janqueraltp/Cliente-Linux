@@ -141,3 +141,4 @@ Para descomprimir un archivo o conjunto de archivos. El archivo comprimido (o ar
 
 ![image](https://user-images.githubusercontent.com/116662838/216684282-dfa18608-453e-4f5b-bdff-c01845229184.png)
 
+Para descomprimir un directorio o conjunto de directorios. Los archivos comprimidos con la extension ```.gz``` que contiene el directorios y sus subdirectorios se pierden.
