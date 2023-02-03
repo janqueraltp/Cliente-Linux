@@ -83,6 +83,43 @@ more --> Muestra por pantalla el contenido del archivo que le pasamos por pantal
 Presionando la tecla q se cancela el avanze por el archivo
 Tabulador  Sirve para aurocompletar rutas, comandos y archivos
 
+
+Las fletchas arriba y abajo sirven para mostrar el historial de comandos
+Las fletxas izquierda i derecha nos sirven para movernos dentro de una linia del historial
+
+Foreground y background
+FOREGROUND
+Cuando lanzamos (ejecutamos) un comando o aplicacion en primer o segundo plano, el terminal desde donde lo hemos lanzado (ejecutado) no nos devuelve el símbolo del sistema hasta que este comando o aplicación no finaliza su ejecución por tanto momentáneamente no podremos lanzar mas comandos o aplicaciones desde ese terminal
+BACKGROUND
+Es la ejecución en segundo plano de un comando o aplicación. Cuando lanzamos un comando o aplicación en segundo plano el terminal desde donde lo hemos lanzado sí nos devuelve el símbolo del sistema y por tanto nos permite lanzar otros comandos o aplicaciones aunque las anteriores no hayan finalizado.
+
+
+COPIAR ARCHIVOS
+
+CP  COPIAR
+Para crear una copia de un archivo en la misma ruta donde se encuentra el archivo, pero dándole un nombre diferente a la copia.
+Cp nom_archiu ruta_desti/nomcopia
+
+COPIAR DIRECTORIOS
+Cp (opción) nom directori ruta desti
+Cp -r pracs pracs_c
+Ls
+Ls pracs_c
+
+RENOVAR Y/O MOVER ARCHIVOS Y DIRECTORIOS
+Mv nom-arxiu nou-nom-arxiu
+Para canviar el nombre del archivo (o directorio) que le pasamos como argumento al comando mv
+Para mover el archivo (o directorio) al comando mv a una ruta diferente de la que se encuentra el archivo original.
+
+Mover y renombrar
+Mr nom-arxiu ruta-desti/nou-nom-arxiu
+Para mover el archive que le pasamos como arguemtno al comando mv a una ruta diferente de la que se encuentra el archivo original y con un nombre diferente
+
+
+
 # EMPAQUETAR Y COMPRIMIR
 ***Empaquetar*** --> Es juntar varios objetos del arbol de directoreios del Sistema opaerativo (SO) en un solo objeto.  
-***Comprimir*** -->  Consiste en intentar reducir el tamaño de uno o varios objetos del arbol de directorios del Sistema Operativo (SO). La idea 
+***Comprimir*** -->  Consiste en intentar reducir el tamaño de uno o varios objetos del arbol de directorios del Sistema Operativo (SO). La idea   
+
+1a. Comprimir archivos
+´gzip nombre-archivo1... nombre-archivoN´
