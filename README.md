@@ -137,4 +137,7 @@ Para comprimir un directorio (o conjunto de directorios). El directorio original
 
 ### 1a. Descomprimir archivos y directorios 📁
 ```gzip -d nom-arxiu.gz ... nom-arxiuN.gz```
-Para descomprimir un archivo o conjunto de archivos. El archivo comprimido (o archivos comprimidos) con la extension ```.gz``` se pierden y en su lugar se genera el archivo original (o archivos originales) descomprimido
+Para descomprimir un archivo o conjunto de archivos. El archivo comprimido (o archivos comprimidos) con la extension ```.gz``` se pierden y en su lugar se genera el archivo original (o archivos originales) descomprimido  
+
+![image](https://user-images.githubusercontent.com/116662838/216684282-dfa18608-453e-4f5b-bdff-c01845229184.png)
+
