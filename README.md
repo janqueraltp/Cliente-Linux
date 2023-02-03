@@ -27,7 +27,7 @@ absoluta.
 
 <div id='id2' />
 
-## Sintaxis de un comando
+## Sintaxis de un comando :books:
 ```$comando [-opciones] [argumentos]```
 
 
