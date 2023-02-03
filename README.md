@@ -121,5 +121,5 @@ Para mover el archive que le pasamos como arguemtno al comando mv a una ruta dif
 ***Empaquetar*** --> Es juntar varios objetos del arbol de directoreios del Sistema opaerativo (SO) en un solo objeto.  
 ***Comprimir*** -->  Consiste en intentar reducir el tamaño de uno o varios objetos del arbol de directorios del Sistema Operativo (SO). La idea   
 
-1a. Comprimir archivos
-´gzip nombre-archivo1... nombre-archivoN´
+1a. Comprimir archivos  
+´´´gzip nombre-archivo1... nombre-archivoN´´´
