@@ -3,7 +3,7 @@
 #### Redes locales - SMIX - [@janqueraltp](https://github.com/janqueraltp).
 
 **Índice**
-1. [Conceptos generales](#id1)
+1. :page_facing_up: [Conceptos generales](#id1)
 2. [Sintaxis de un comando](#id2)
 
 <div id='id1' />
