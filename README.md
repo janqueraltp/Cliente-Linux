@@ -123,4 +123,4 @@ Para mover el archive que le pasamos como arguemtno al comando mv a una ruta dif
 
 ### 1a. Comprimir archivos  
 ```gzip nombre-archivo1... nombre-archivoN```
-Para comprimir un archivo o un conjunto de archivos. El archivo orgiginal (o originales) se pierden (desaparecen) y en su lugar se genera uno (o varios) archivos con el mismo nombre que el original
+Para comprimir un archivo o un conjunto de archivos. El archivo orgiginal (o originales) se pierden (desaparecen) y en su lugar se genera uno (o varios) archivos con el mismo nombre que el original y con la extension ```.gz```
