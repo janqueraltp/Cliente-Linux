@@ -136,5 +136,5 @@ Para comprimir un directorio (o conjunto de directorios). El directorio original
 ```$ls pracs```  
 
 ### 1a. Descomprimir archivos y directorios 📁
-```
-Para descomprimir un archivo o conjunto de archivos. El archivo comprimido (o archivos comprimidos) con la extension ```.gz``` se pierden y en su lugar se genera el archivo original (o archivos originales)
+```gzip -d nom-arxiu.gz ... nom-arxiuN.gz```
+Para descomprimir un archivo o conjunto de archivos. El archivo comprimido (o archivos comprimidos) con la extension ```.gz``` se pierden y en su lugar se genera el archivo original (o archivos originales) descomprimido
