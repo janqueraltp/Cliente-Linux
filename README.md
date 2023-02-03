@@ -122,4 +122,4 @@ Para mover el archive que le pasamos como arguemtno al comando mv a una ruta dif
 ***Comprimir*** -->  Consiste en intentar reducir el tamaño de uno o varios objetos del arbol de directorios del Sistema Operativo (SO). La idea   
 
 1a. Comprimir archivos  
-´´´gzip nombre-archivo1... nombre-archivoN´´´
+```gzip nombre-archivo1... nombre-archivoN```
