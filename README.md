@@ -4,7 +4,7 @@
 
 **Índice**
 1. :page_facing_up: [Conceptos generales](#id1)
-2. U+1F4DA [Sintaxis de un comando](#id2)
+2. :books: [Sintaxis de un comando](#id2)
 
 <div id='id1' />
 
