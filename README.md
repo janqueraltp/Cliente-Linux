@@ -8,7 +8,7 @@
 
 <div id='id1' />
 
-## Conceptos generales
+## Conceptos generales :page_facing_up:
 •	**Gestor de arranque** es un software que nos permite arrancar los diferentes sistemas operativos que tenemos instalados en la máquina (ej. GRUB, LILO).  
 •	**Gestor de inicio de sesión en modo gráfico** es una aplicación que nos permite iniciar sesión en el entorno gráfico con un usuario determinado (ej. LIGHTDM, GDM, KDM).  
 •	**Gestor de ventanas** es la interfaz gráfica de usuario que nos permite interactuar con el sistema operativo (ej. GNOME, KDE).  
