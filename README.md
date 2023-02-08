@@ -146,8 +146,8 @@ Para descomprimir un directorio o conjunto de directorios. Los archivos comprimi
 
 ### Empaquetar archivos y directorios
 ***tar -c[^nota5]v[^nota6]f[^nota7]***
-[^nota5]: empaquetar
-[^nota6]: muestra informacion del proceso y empaquetado
-[^nota7]: forzar
+[^nota5]: c --> empaquetar
+[^nota6]: v --> muestra informacion del proceso y empaquetado
+[^nota7]: f --> forzar
 
 Para empaquetar (juntar) un conjunto de archivos en un solo objeto (archivo) con la extension .tar Los archivos originales no se pierden y ademas se genera un archivo con la extension .tar que contiene empaquetados todos los archivos que le hemos pasado al comando como argumentos.
