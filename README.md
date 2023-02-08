@@ -158,3 +158,7 @@ Los archivos originales no se pierden
 ***tar -cvf pracs.tar pracs***
 Para empaquetar (juntar) un directorio en un solo objeto (archivo) con la extension .tar.   
 El directorio originales no se pierden  
+
+
+#### 2b Desempaquetar archivos y directorios  
+archivos --> ***-xvf*** (x = descomprimir)  ``` tar -xvf nom_arxius_empaqetats.tar ```
