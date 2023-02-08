@@ -162,4 +162,5 @@ El directorio originales no se pierden
 
 #### 2b Desempaquetar archivos y directorios  
 archivos --> ***-xvf*** (x = descomprimir)  ``` tar -xvf nom_arxius_empaqetats.tar ```  
-Para desenpaquetar (extraer) los archivos que se encuentran dentro del archivo .tar que le pasamos como argumento al comando ```tar -x```
+Para desenpaquetar (extraer) los archivos que se encuentran dentro del archivo .tar que le pasamos como argumento al comando ```tar -x```  
+El archivo empaquetado (.tar) no se pierde
