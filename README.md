@@ -154,6 +154,7 @@ Para empaquetar (juntar) un conjunto de archivos en un solo objeto (archivo) con
 Los archivos originales no se pierden
 
 #### 2a. Descomprimir  
-***tar -evf nom_directori.empaquetat.tar nom_directoroi***  
+***tar -cvf nom_directori.empaquetat.tar nom_directoroi***  
+***tar -cvf pracs.tar pracs***
 Para empaquetar (juntar) un directorio en un solo objeto (archivo) con la extension .tar.   
 El directorio originales no se pierden  
