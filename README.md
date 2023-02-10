@@ -169,5 +169,6 @@ El archivo empaquetado (.tar) no se pierde
 Para desenpaquetar el directorio empaquetado (.tar) que le pasamos como argumento al comando tar. El directorio enpaquetado no se pierde y ademas obtenemos el directorio original.
 
 # Empaquetar y comprimir en dos pasos
-```$tar -cvf nom_directori_empaquetat.tar nom_directori```
+1. ```$tar -cvf nom_directori.empaquetat.tar nom_directori```
+2. ```gzip nom_directori.empaquetat.tar``` --> ```nom_directori_empaquetat_comprimir.tar.gz```
 
