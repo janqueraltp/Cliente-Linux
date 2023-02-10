@@ -182,6 +182,7 @@ Despues de ejecutar estos dos pasos obtendremos el directorio original. El archi
 # Empaquetar y comprimir en un solo paso  
 opcion 1 --> $tar -cvz[^nota10]f nom directori_empaquetat.tar.gz nom_directori   
 El directorio original no se pierde y ademas se genera el archivo enpaquetado y comprimido con la extension ```.tar.gz```  
-[^nota10]: comprimir con gzip  
-opcio 2 --> $tar -cvj[^nota11]f nom directori_empaquetat.tar.bz2 nom_directori  
+opcio 2 --> $tar -cvj[^nota11]f nom directori_empaquetat.tar.bz2 nom_directori 
+
+[^nota10]: comprimir con gzip     
 [^nota11]: comprimir con bzip2  
