@@ -167,3 +167,5 @@ El archivo empaquetado (.tar) no se pierde
 
 ``` tar -xvf nom_directori.empaquetat.tar```
 Para desenpaquetar el directorio empaquetado (.tar) que le pasamos como argumento al comando tar. El directorio enpaquetado no se pierde y ademas obtenemos el directorio original.
+![descarga](https://user-images.githubusercontent.com/116662838/218161623-625b8963-59bf-4799-8b21-f4f49e8c52de.png)
+
