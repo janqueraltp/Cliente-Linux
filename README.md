@@ -195,9 +195,9 @@ Redireccionar la salida estandard de un comando (que por defecto es la pantalla)
 
 ```$comando > nom_arxiu```  
 
-``>``Si el archivo no existe se crea, si existe se sobrescrive  
+``>`` Si el archivo no existe se crea, si existe se sobrescrive  
 
-``>>``Si el archivo no existe se crea, si existe el resultado que genera el comando se añade al final de lo que ya contenga el archivo  
+``>>`` Si el archivo no existe se crea, si existe el resultado que genera el comando se añade al final de lo que ya contenga el archivo  
 
 
 
