@@ -170,5 +170,7 @@ Para desenpaquetar el directorio empaquetado (.tar) que le pasamos como argument
 
 # Empaquetar y comprimir en dos pasos
 1. ```$tar -cvf nom_directori.empaquetat.tar nom_directori```
-2. ```gzip nom_directori.empaquetat.tar``` --> ```nom_directori_empaquetat_comprimir.tar.gz```
+2. ```gzip nom_directori.empaquetat.tar``` --> ```nom_directori_empaquetat_comprimir.tar.gz```  
+
+Despues de realizar el paso dos se general el archivo ```nom_directori_empaquetat_comprimir.tar.gz```  
 
