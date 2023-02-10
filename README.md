@@ -24,6 +24,9 @@ Actual (ej. PRACS / PT1 ).
 donde nos encontramos en estos momentos utilizaremos una ruta relativa.
 Y siempre nos moveremos por una rama diferente a la actual usaremos ruta
 absoluta. 
+- **Salida estandar** La salida estandar es el medio por el cual un comando muestra sus resultados. Por defecto es la pantalla.
+- **Salida estandar de error** La salida estandar de error es el medio por el cual el sistema genera mensajes de error o de advertencia a la hora de ejecutar comandos, por defecto es la pantalla.
+- **Entrada estandar** La entrada estandar es el medio por el cual le pasamos informacion a un comando para poder ejecturalo (opciones, argumentos, etc..) por defecto es el teclado
 
 <div id='id2' />
 
@@ -184,6 +187,32 @@ Despues de ejecutar estos dos pasos obtendremos el directorio original. El archi
 El directorio original no se pierde y ademas se genera el archivo enpaquetado y comprimido con la extension ```.tar.gz```  
 
 ***opcio 2*** --> $tar -cvj[^nota11]f nom directori_empaquetat.tar.bz2 nom_directori 
+El directorio original no se pierde y ademas se genera el directorio original
+
+
+# Redireccionamiento de la salida estandar
+Redireccionar la salida estandard de un comando (que por defecto es la pantalla) nos permite enviar el resultadoque genera el comnando a un medio diferente como por ejemplo un archivo con la intencion de que esa informacion sea permanente en lugar de temporal
+
+```$comando > nom_arxiu```
+Si el archivo no existe se crea, si existe se sobrescrive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [^nota10]: comprimir con gzip     
 [^nota11]: comprimir con bzip2  
