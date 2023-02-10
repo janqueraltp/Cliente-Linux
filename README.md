@@ -178,3 +178,7 @@ Despues de realizar el paso dos se general el archivo (directorio) ```$empaqueta
 ```gzip -d```
 ```tar -xvf```
 Despues de ejecutar estos dos pasos obtendremos el directorio original. El archivo enpaquetado y comprimido con la extension .tar .gz se pierde
+
+# Empaquetar y comprimir en un solo paso
+opcion 1 --> $tar -cvz[^nota10]f
+[^nota10]: comprimir con gzip
