@@ -175,3 +175,6 @@ Para desenpaquetar el directorio empaquetado (.tar) que le pasamos como argument
 Despues de realizar el paso dos se general el archivo (directorio) ```$empaquetat_comprimir.tar.gz```. El directorio original no se pierde  
 
 # Descomprimir y desempaquetar en dos pasos
+```gzip -d```
+```tar -xvf```
+Despues de ejecutar estos dos pasos obtendremos el directorio original. El archivo enpaquetado y comprimido con la extension .tar .gz se pierde
