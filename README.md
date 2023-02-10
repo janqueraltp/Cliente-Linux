@@ -194,7 +194,8 @@ El directorio original no se pierde y ademas se genera el directorio original
 Redireccionar la salida estandard de un comando (que por defecto es la pantalla) nos permite enviar el resultadoque genera el comnando a un medio diferente como por ejemplo un archivo con la intencion de que esa informacion sea permanente en lugar de temporal
 
 ```$comando > nom_arxiu```
-Si el archivo no existe se crea, si existe el resultado que genera el comando se añade al final de lo que ya contenga el archivo
+``>``Si el archivo no existe se crea, si existe se sobrescrive
+``>>``Si el archivo no existe se crea, si existe el resultado que genera el comando se añade al final de lo que ya contenga el archivo
 
 
 
