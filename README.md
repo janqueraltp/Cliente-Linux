@@ -195,11 +195,12 @@ Redireccionar la salida estandard de un comando (que por defecto es la pantalla)
 
 ```$comando > nom_arxiu```  
 
-``>`` Si el archivo no existe se crea, si existe se sobrescrive  
+``>`` Si el archivo no existe se crea, si existe se sobrescrive su contenido con el resultado que genera el comando
 
 ``>>`` Si el archivo no existe se crea, si existe el resultado que genera el comando se añade al final de lo que ya contenga el archivo  
 
-
+# Tuberias
+Una tuberia es una herramienta que permite que la informacion que genera un comando sea procesada por otro comando. Al comando que se encuentra a la izquierda de la tuberia se le redirecciona la salida estandard, de tal forma que el resultado que genera en lugar de enviarse a la pantalla se envia a la tuberia
 
 
 
