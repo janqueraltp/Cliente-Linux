@@ -200,7 +200,10 @@ Redireccionar la salida estandard de un comando (que por defecto es la pantalla)
 ``>>`` Si el archivo no existe se crea, si existe el resultado que genera el comando se añade al final de lo que ya contenga el archivo  
 
 # Tuberias
-Una tuberia es una herramienta que permite que la informacion que genera un comando sea procesada por otro comando. Al comando que se encuentra a la izquierda de la tuberia se le redirecciona la salida estandard, de tal forma que el resultado que genera en lugar de enviarse a la pantalla se envia a la tuberia
+Una tuberia es una herramienta que permite que la informacion que genera un comando sea procesada por otro comando (sirve para filtrar la informacion). Al comando que se encuentra a la izquierda de la tuberia se le redirecciona la salida estandard, de tal forma que el resultado que genera en lugar de enviarse a la pantalla se envia a la tuberia.
+Al comando que queda a la derecha de la tuberia se le redirecciona la entrada estandard, de tal forma que lo que tiene que procesar el comando en lugar de pasarselo por teclado lo recibe de la tuberia.
+Se pueden enlazar tantas tuberias como sea necesario.
+Se representa en todos los SO con "|"
 
 
 
