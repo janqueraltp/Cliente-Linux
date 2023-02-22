@@ -212,7 +212,7 @@ Se representa en todos los SO con "|".
 La ejecucion secuancial nos permite ejecutar varios comandos en una misma linia determinal (uno detras de otro). Si alguno de los comandos falla no se rompe la secuencia, es decir se ejecutaran todos los comandos que no fallen siguiendo el orden marcado por la secuencia
 
 
-
+# Ejercicio tipo examen
 
 
 
