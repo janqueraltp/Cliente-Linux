@@ -213,14 +213,15 @@ La ejecucion secuancial nos permite ejecutar varios comandos en una misma linia 
 
 # Crear un archivo de texto con el comando cat
 
-```cat > nom_archiu> ↲
+```
+cat > nom_archiu> ↲
 "escribimos el texto deseado" ↲
 Ctrl + D --> Guardar
 
 
 # Ejercicio tipo examen
 
-
+```
 
 
 
