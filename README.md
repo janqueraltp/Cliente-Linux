@@ -217,10 +217,6 @@ La ejecucion secuancial nos permite ejecutar varios comandos en una misma linia 
 cat > nom_archiu> ↲
 "escribimos el texto deseado" ↲
 Ctrl + D --> Guardar
-
-
-# Ejercicio tipo examen
-
 ```
 
 
