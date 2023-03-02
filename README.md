@@ -54,12 +54,12 @@ RM -RF NOM_DIRECTORI :arrow_right: Para borrar el directorio.
 ### HERRAMIENTA APT
 APT es una herramienta que nos permite instalar aplicaciones, paquetes y librerias de software.  
 Es necesario ser superusuario para poder utilizar esta herramienta.  
-Apt-get update --> Para actualizer la lista de paquetes a los que apt puede acceder atraves de sus fuentes
-Sources.list --> Archivo de configuración del comando apt que contiene las fuentes de repositorio de software, direcciones de servidores de internet de donde descargar aplicaciones (fuentes).
-Apt-get install nom_aplicació  Para instalar la aplicación (o paquete o librería de software)
-Que le pasamos como arguemento a la herramienta APT.
-Sudo apt-get install xxx  Instalar
-Sudo apt-get remove xxx  Desinstalar
+Apt-get update --> Para actualizer la lista de paquetes a los que apt puede acceder atraves de sus fuentes  
+Sources.list --> Archivo de configuración del comando apt que contiene las fuentes de repositorio de software, direcciones de servidores de internet de donde descargar aplicaciones (fuentes).  
+Apt-get install nom_aplicació  Para instalar la aplicación (o paquete o librería de software)  
+Que le pasamos como arguemento a la herramienta APT.  
+Sudo apt-get install xxx  Instalar  
+Sudo apt-get remove xxx  Desinstalar  
 ### HERRAMIENTAS SUDO
 Es una herramienta que nos permite ejecutar comandos de modo superusuario (root)
 Sudo comando  Para ejecutar en modo root el comando que le pasamos como argumento la herramienta sudo
